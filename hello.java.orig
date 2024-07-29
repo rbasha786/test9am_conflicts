@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+class Test   //Program developed by Kwame
+  {
+    public static void main(String []args)  // Main class
+    {
+        System.out.println("First Java Program from Kwame");
+=======
+ class Test   //Program developed by Soham
+ {
+     public static void main(String []args)  // Main class
+    {
+       System.out.println("My First Java Program from Soham.");
+>>>>>>> 18b82801c0f2e0603991d9f789f49c971d50f531
+    }
+ };
